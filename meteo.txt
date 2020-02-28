@@ -1,11 +1,11 @@
 Beziers / Vias, France (LFMU) 43-19N 003-21E
-Feb 07, 2020 - 03:30 AM EST / 2020.02.07 0830 UTC
-Wind: from the NE (050 degrees) at 10 MPH (9 KT):0
+Feb 28, 2020 - 10:00 AM EST / 2020.02.28 1500 UTC
+Wind: from the S (170 degrees) at 10 MPH (9 KT):0
 Visibility: greater than 7 mile(s):0
-Sky conditions: mostly cloudy
-Temperature: 48 F (9 C)
-Dew Point: 39 F (4 C)
-Relative Humidity: 70%
-Pressure (altimeter): 30.30 in. Hg (1026 hPa)
-ob: LFMU 070830Z AUTO 05009KT 9999 FEW032 BKN040 09/04 Q1026 NOSIG
-cycle: 8
+Sky conditions: mostly clear
+Temperature: 55 F (13 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: LFMU 281500Z AUTO 17009KT 9999 FEW038 13/08 Q1019 NOSIG
+cycle: 15
